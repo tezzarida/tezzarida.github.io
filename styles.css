@@ -1,0 +1,36 @@
+body {
+    background-color: #000; /* Dark background */
+    color: #fff; /* White text color */
+    font-family: Arial, sans-serif; /* Sample font */
+}
+
+.profile-container {
+    text-align: center;
+    /* Additional styling for layout, spacing, etc. */
+}
+
+.profile-pic {
+    border-radius: 50%; /* Circular image */
+    border: 3px solid #fff; /* White border around the image */
+    /* Additional styling for size, etc. */
+}
+
+.tagline {
+    font-style: italic;
+    /* Additional styling */
+}
+
+.link-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    background-color: #4CAF50; /* Example button color */
+    color: #fff; /* Button text color */
+    text-decoration: none;
+    /* Additional button styling such as border, border-radius, etc. */
+}
+
+/* Specific styles for the .upwork button */
+.upwork {
+    background-color: #ff9800; /* Override for upwork button */
+}

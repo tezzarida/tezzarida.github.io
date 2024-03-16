@@ -1,4 +1,4 @@
-# [tezzarida]
+# [tezzarida.io]
 
 This repository hosts the code for my single-page professional website. The website serves as a central hub for all my professional links and portfolio pieces.
 
@@ -17,5 +17,3 @@ While this site is primarily for personal use, I welcome suggestions or contribu
 [Optional: Include information about the license of the content or code if applicable.]
 
 Feel free to explore the site and connect with me on my various professional platforms!
-
-[tezzarida.io]

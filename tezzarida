@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Aram (/tezzarida) · solo.to</title>
+<meta property="og:title" content="Aram (/tezzarida) · solo.to">
+<meta name="description" content="Valencia, ES · solopreneur">
+<meta property="og:description" content="Valencia, ES · solopreneur">
+<meta property="og:image" content="https://cdn.solo.to/user/a/655a3a08324615_89613743.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#242424">
+<link href="https://cdn.solo.to/images/favicon.png" rel="shortcut icon" type="image/x-icon">
+<link href="https://cdn.solo.to/user/a/sm/655a3a08324615_89613743.jpg" rel="apple-touch-icon">
+<link href="https://solo.to/tezzarida" rel="canonical">
+<link href="/css/vendor.css?i=5914ac30" rel="stylesheet" type="text/css">
+<link href="/css/app.css?i=5910b027" rel="stylesheet" type="text/css">
+<script src="https://a.solo.to/script.js" data-site="IHGLANPG" defer></script>
+</head>
+<body class="body-dark">
+<div class="page-wrapper page-wrapper-linkpage" style="font-family:'Roboto Mono',sans-serif">
+<div class="profile-bkg-hero-wrapper" style="background-image:none;background-color:#242424">
+<div class="slice-div slice-div-large slice-div-large-dark"></div>
+</div>
+<div class="section info-card"><div class="section-container"><div class="profile-info-wrapper profile-info-wrapper-dark">
+<div class="profile-info-top-wrapper"><div class="profile-image-wrapper profile-image-wrapper-square">
+<picture><source media="(max-width:479px)" srcset="https://cdn.solo.to/user/a/sm/655a3a08324615_89613743.jpg"><img src="https://cdn.solo.to/user/a/655a3a08324615_89613743.jpg" decoding="async" class="profile-image profile-image-square"></picture>
+</div></div>
+<div class="profile-info-bottom-wrapper">
+<div class="profile-name-wrapper">
+<h1 class="profile-name">Aram</h1>
+</div>
+<div class="profile-location-box">
+<img src="https://cdn.solo.to/images/map-pin.svg" alt="Location" class="location-icon">
+<div class="profile-location-text">Valencia, ES</div>
+</div>
+<p class="profile-bio profile-bio-dark">solopreneur</p>
+</div>
+</div></div></div>
+<div class="section link-section"><div class="section-container"><div class="profile-link-wrapper">
+<div class="link-item-wrapper link-item-wrapper-full-width">
+<a href="https://www.upwork.com/ag/fulfilledbyus/" id="NzE4NDQ3Mg" class="link-button link-button-full-width link-button-dark w-inline-block">
+<div class="link-icon-float" style="box-shadow:0 8px 14px -4px rgba(111,218,68,0.65)">
+<img src="https://cdn.solo.to/images/link/upwork.svg" class="link-icon-float-image">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">founder | fulfilled by us</div>
+<div class="link-url">upwork.com/ag/fulfilledbyus/</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+<div class="link-item-wrapper">
+<a href="https://www.upwork.com/freelancers/~014b4eaf8317dc5a70" id="NzE4NDQ3MQ" class="link-button link-button-dark w-inline-block">
+<div class="link-icon-float" style="box-shadow:0 8px 14px -4px rgba(111,218,68,0.65)">
+<img src="https://cdn.solo.to/images/link/upwork.svg" class="link-icon-float-image">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">amazon FBA enthusiast | upwork</div>
+<div class="link-url">upwork.com/freelancers/~014b4eaf8317dc5a70</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+<div class="link-item-wrapper">
+<a href="http://amazon.com/qbottle" id="NzE4NDQ3MA" class="link-button link-button-dark w-inline-block">
+<div class="link-icon-float" style="box-shadow:0 8px 14px -4px rgba(80,80,80,0.65)">
+<img src="https://cdn.solo.to/images/link/amazon.svg" class="link-icon-float-image">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">managing director | qbottle</div>
+<div class="link-url">amazon.com/qbottle</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+</div></div></div>
+</div>
+<div class="page-footer"><a href="https://solo.to/" class="linkpage-cta linkpage-cta-dark w-inline-block"><img src="https://cdn.solo.to/images/logo/solo-icon.svg" width="170" class="footer-brand-image">create your own page</a></div>
+<script src="/js/page.js?i=afb4f9c9"></script>
+<script src="/js/prefetch.js?i=dc93443b" type="module"></script>
+</body>
+</html>
+<!--・。.・⁺· design © 2024 solo.to ·⁺・。.・-->

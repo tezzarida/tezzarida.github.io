@@ -18,4 +18,4 @@ While this site is primarily for personal use, I welcome suggestions or contribu
 
 Feel free to explore the site and connect with me on my various professional platforms!
 
-[Your Website URL]
+[tezzarida.io]
